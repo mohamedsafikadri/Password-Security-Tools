@@ -67,3 +67,4 @@ This repository contains three independent but complementary Python modules:
 📌 Password_Strength.py – Evaluates password complexity and classifies security levels.
 📌 password_manager.py – Handles account creation and authentication using secure password hashing.
 Together, these modules provide a practical introduction to authentication systems, password security, and cybersecurity-oriented Python development.
+This project was created as a learning exercise inspired by a Python tutorial on YouTube
